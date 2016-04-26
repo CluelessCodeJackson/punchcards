@@ -1,0 +1,48 @@
+1) HTML/CSS 
+
+2) JavaScript (HackerRank) 
+
+3) Java (HackerRank)
+4) C# (HackerRank)
+
+5) Bash (HackerRank)
+6) Python (HackerRank)
+7) PowerShell
+8) Ruby  (HackerRank)
+
+9) PHP (HackerRank)
+
+10) T-SQL
+11) MySQL
+
+
+12) Perl (Opt) (HackerRank)
+13) C++ (Opt) (HackerRank)
+14) C (Opt) (HackerRank)
+15) VB.Net (Opt) (HackerRank)
+  
+
+Frameworks
+-----------
+WordPress
+Drupal / Joomla (?Which?)
+
+Operating Systems
+-----------------
+Windows 
+Linux - Debian/Ubuntu & CentOS
+
+
+Version Control
+---------------
+Git
+Team Foundation Server/TFS
+
+
+Configuration Management Software
+---------------------------------
+https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
+
+
+
+

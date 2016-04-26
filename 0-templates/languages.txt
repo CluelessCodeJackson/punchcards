@@ -1,0 +1,44 @@
+1) HTML/CSS 
+
+2) JavaScript
+
+3) Java
+4) C#
+
+5) Bash
+6) Python
+7) PowerShell
+8) Ruby for Configuration Engines ??
+
+9) PHP
+
+10) T-SQL
+11) MySQL
+
+
+12) Perl (Opt)
+13) C++ (Opt)
+14) C (Opt)
+15) VB (Opt)
+  
+
+Frameworks
+-----------
+WordPress
+Drupal / Joomla (?Which?)
+
+Operating Systems
+-----------------
+Windows 
+Linux - Debian/Ubuntu & CentOS
+
+
+Version Control
+---------------
+Git
+Team Foundation Server/TFS
+
+
+Configuration Management Software
+---------------------------------
+https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
